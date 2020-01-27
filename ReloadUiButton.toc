@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 80300
 ## Title: Reload UI Button
 ## Notes: Adds a Reload UI Button to the Game menu and Interface options frame
 ## Notes-ruRU: Добавляет кнопку перезагрузки интерфейса в Главное меню и окно настроек интерфейса
