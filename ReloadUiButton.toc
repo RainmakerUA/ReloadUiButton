@@ -3,6 +3,6 @@
 ## Notes: Adds a Reload UI Button to the Game menu and Interface options frame
 ## Notes-ruRU: Додає кнопку перезавантаження интерфейсу в Головне меню та вікно налаштувань интерфейсу
 ## Author: RainmakerUA
-## Version: 10.0.0-final
+## Version: 10.0.1-final
 
 ReloadUiButton.xml

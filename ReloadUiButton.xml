@@ -21,10 +21,10 @@
 			</OnClick>
 		</Scripts>
 	</Button>
-	<Button name="InterfaceOptionsFrameReloadUI" inherits="UIPanelButtonTemplate" text="RELOADUI" parent="InterfaceOptionsFrame">
+	<Button name="SettingsPanelReloadUI" inherits="UIPanelButtonTemplate" text="RELOADUI" parent="SettingsPanel">
 		<Size x="96" y="22"/>
 		<Anchors>
-			<Anchor point="BOTTOMLEFT" relativeTo="InterfaceOptionsFrameDefaults" relativePoint="BOTTOMRIGHT" x="0" y="0"/>
+			<Anchor point="BOTTOMLEFT" x="16" y="16"/>
 		</Anchors>
 		<Scripts>
 			<OnClick>
